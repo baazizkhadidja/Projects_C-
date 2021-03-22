@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1603877309 source:/home/zake/Bureau/Projects_C++/pointerArray/pointerArrat.cpp
+	<iostream>
+	<string>
+	<map>
+

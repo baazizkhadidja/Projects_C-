@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1603196806 source:/home/zake/Bureau/Projects_C++/Polymorphisme/main.cpp
+	"polymorphisme.h"
+	<iostream>
+
+1603197718 /home/zake/Bureau/Projects_C++/Polymorphisme/polymorphisme.h
+
+1603196580 source:/home/zake/Bureau/Projects_C++/Polymorphisme/polymorphisme.cpp
+	"polymorphisme.h"
+	<iostream>
+

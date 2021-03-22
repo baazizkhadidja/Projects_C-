@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1602829801 source:/home/zake/Bureau/Projects_C++/Jeu_de_role/Arme.cpp
+	"Arme.h"
+	<iostream>
+	<string>
+
+1602829732 /home/zake/Bureau/Projects_C++/Jeu_de_role/Arme.h
+	<iostream>
+	<string>
+
+1602829893 source:/home/zake/Bureau/Projects_C++/Jeu_de_role/main.cpp
+	<iostream>
+	"Personnage.h"
+	<string>
+
+1602829988 /home/zake/Bureau/Projects_C++/Jeu_de_role/Personnage.h
+	"Arme.h"
+	<string>
+	<iostream>
+
+1602830024 source:/home/zake/Bureau/Projects_C++/Jeu_de_role/Personnage.cpp
+	"Personnage.h"
+	<iostream>
+	<string>
+

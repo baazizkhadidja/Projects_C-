@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1610437130 source:/home/zake/Bureau/Projects_C++/test_expert.cpp/main.cpp
+	<iostream>
+	<vector>
+
+1610436602 source:/home/zake/Bureau/Projects_C++/test_expert.cpp/calc.cpp
+
+1610436560 source:/home/zake/Bureau/Projects_C++/test_expert.cpp/jeu_dechec.cpp
+	<iostream>
+

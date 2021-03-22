@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1608369374 source:/home/zake/Bureau/Projects_C++/test_junior/cash.cpp
+	<iostream>
+	<iostream>
+	<stdio>
+
+1603891607 source:/home/zake/Bureau/Projects_C++/test_junior/test_if.cpp
+	<iostream>
+

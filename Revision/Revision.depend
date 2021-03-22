@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1608209736 source:/home/zake/Bureau/Projects_C++/Revision/revision.cpp
+	<iostream>
+	<string>
+	"revision.h"
+
+1608209789 source:/home/zake/Bureau/Projects_C++/Revision/main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	"revision.h"
+
+1608209775 /home/zake/Bureau/Projects_C++/Revision/revision.h
+	<string>
+	"arme.h"
+
+1608208862 source:/home/zake/Bureau/Projects_C++/Revision/arme.cpp
+	<iostream>
+	<string>
+	"arme.h"
+
+1608208630 /home/zake/Bureau/Projects_C++/Revision/arme.h
+	<iostream>
+	<string>
+

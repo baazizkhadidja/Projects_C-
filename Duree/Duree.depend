@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1602752622 source:/home/zake/Bureau/Projects_C++/Duree/duree.cpp
+	<iostream>
+	<string>
+	"duree.h"
+
+1602752628 /home/zake/Bureau/Projects_C++/Duree/duree.h
+

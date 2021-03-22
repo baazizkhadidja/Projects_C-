@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1602852352 source:/home/zake/Bureau/Projects_C++/first_project/main.cpp
+	<iostream>
+	"personne.h"
+
+1596532953 source:/home/zake/Bureau/Projects_C++/first_project/test.cpp
+	<iostream>
+
+1602853702 source:/home/zake/Bureau/Projects_C++/first_project/personne.cpp
+	"personne.h"
+
+1602850639 /home/zake/Bureau/Projects_C++/first_project/personne.h
+	<string>
+

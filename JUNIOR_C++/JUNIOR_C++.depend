@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1608740237 source:/home/zake/Bureau/Projects_C++/JUNIOR_C++/main.cpp
+	<iostream>
+	<map>
+	<string>
+

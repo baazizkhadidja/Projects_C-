@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1603120882 source:/home/zake/Bureau/Projects_C++/Herithage/Guerrier.cpp
+	"Personnage.h"
+	"Guerrier.h"
+
+1603120882 /home/zake/Bureau/Projects_C++/Herithage/Personnage.h
+	<iostream>
+	<string>
+
+1603120244 source:/home/zake/Bureau/Projects_C++/Herithage/Personnage.cpp
+	"Personnage.h"
+
+1603120445 source:/home/zake/Bureau/Projects_C++/Herithage/main.cpp
+	"Personnage.h"
+	"Guerrier.h"
+
+1603108420 /home/zake/Bureau/Projects_C++/Herithage/Guerrier.h
+	<iostream>
+	<string>
+	"Personnage.h"
+
+1603110159 source:/home/zake/Bureau/Projects_C++/Herithage/Magicien.cpp
+	"Magicien.h"
+	"Personnage.h"
+	<iostream>
+
+1603110274 /home/zake/Bureau/Projects_C++/Herithage/Magicien.h
+	<iostream>
+	<string>
+	"Personnage.h"
+

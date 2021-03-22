@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1602577766 source:/home/zake/Bureau/Projects_C++/test_class/main.cpp
+	<iostream>
+	<string>
+
